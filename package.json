@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://manjunathbhavi04.github.io/Stake-Mine-Game-Rigged/",
+  "homepage": "https://manjunathbhavi04.github.io/Mines/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
